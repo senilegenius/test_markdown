@@ -13,8 +13,10 @@ function fancyAlert(arg) {
 
 I think you should use an
 
-`lava.` 
-`     servers.`
-`             api-admin.`
+```
+lava.
+     servers.
+             api-admin.
+```
 
 element here instead.
